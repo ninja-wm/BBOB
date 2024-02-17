@@ -1,12 +1,9 @@
-
-**A implement of BBOB functions based on Pytorch.**
-
+@[TOC](A implement of BBOB functions based on Pytorch.)
 # Installation
 ```powershell
 cd BBOB
 ./install.sh
 ```
-
 # About BBOB
 For an introduction to BBOB, please refer to the official introduction document **bbobdocfunctions.pdf**
 
