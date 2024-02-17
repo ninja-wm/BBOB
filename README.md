@@ -1,4 +1,8 @@
-@[TOC](A implement of BBOB functions based on Pytorch.)
+- [Installation](#installation)
+- [About BBOB](#about-bbob)
+- [Example](#example)
+  * [BBOB Functions](#bbob-functions)
+  * [CEC Functions](#cec-functions)
 # Installation
 ```powershell
 cd BBOB
